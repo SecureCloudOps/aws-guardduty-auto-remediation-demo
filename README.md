@@ -1,4 +1,10 @@
 # AWS GuardDuty Auto Remediation Demo
+![Terraform](https://img.shields.io/badge/Terraform-IaC-blueviolet)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Security Automation](https://img.shields.io/badge/Security-Automation-green)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Cloud%20Security-critical)
+
 
 Hands on cloud security project that shows how to detect threats in AWS using GuardDuty and automatically process the findings with serverless automation.
 
