@@ -102,14 +102,3 @@ aws-guardduty-auto-remediation-demo/
         main.tf         - GuardDuty, EventBridge rule, Lambda and IAM role
         variables.tf    - Module inputs (project name, tags)
         outputs.tf      - Module outputs
-
-
-  Screenshots/
-    guardduty_enabled.png
-    guardduty_sample_findings.png
-    eventbridge_rule.png
-    eventbridge_targets.png
-    lambda_overview.png
-    lambda_code.png
-    lambda_cloudwatch_logs.png
-    terraform_apply_success.png
